@@ -1,0 +1,126 @@
+ul {
+    list-style-type: none;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    #logo {
+        height: 100px;
+        vertical-align: middle;
+        font-size: 35px;
+        line-height: 70px;
+    }
+
+    #container {
+        height: 100px;
+        background-color: white;
+        line-height: 100px;
+        margin-bottom: 30px;
+    }
+
+    .titolo {
+        vertical-align: middle;
+        display: inline-block;
+    }
+    body {background-color: aliceblue;}
+
+    #contenitore {
+        margin-top: 30px;
+        background-color: white;
+        height: 50px;
+        width: 1000px;
+        margin: 30px auto;
+        margin: 0 auto;
+        line-height: 50px;
+        border-bottom: 1px solid aliceblue;
+    }
+
+ #pulsante-task {
+        border: 1px solid blue;
+        vertical-align: middle;
+        background-color: blue;
+        border-radius: 10px;
+        margin-left: 40px;
+        padding: 7px;
+        cursor: pointer;
+        color: white;
+        font-weight: bold;
+     
+    }
+    #pulsante-section {
+        border: 1px solid grey;
+        vertical-align: middle;
+        background-color: transparent;
+        border-radius: 10px;      
+        padding: 7px;
+        cursor: pointer;
+        color: grey;
+        font-weight: bold;
+    }
+
+    #lista {
+        border-top: 1px solid aliceblue;
+        background-color: white;
+        width: 1000px;
+        margin: 0 auto;
+    }
+
+.cerchio-spunta {
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 1px;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+.cerchio-da-fare {border: 1px solid red
+    ;
+    border-radius: 50%;
+    padding: 1px;
+    vertical-align: middle;
+    margin-right: 4px;
+    }
+    .triangolo {font-size: 50px;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+.etichetta-blu{border: 1px solid blue;
+background-color: blue;
+border-radius: 10px;
+color: white;
+cursor: pointer;
+}
+
+.etichetta-viola {border: 1px solid violet;
+    background-color: violet;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+    
+    .etichetta-verde-1 {border: 1px solid green;
+        background-color: green;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+    }
+
+    .etichetta-verde-2 {border: 1px solid limegreen;
+        background-color: limegreen;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer; }
+
+        .etichetta-rosa {border: 1px solid pink;
+            background-color: pink;
+            border-radius: 10px;
+            color: white;
+            cursor: pointer;
+        }
+        .etichetta-arancione {border: 1px solid orange;
+            background-color: orange ;
+            border-radius: 10px;
+            color: white;
+            cursor: pointer;
+        }
